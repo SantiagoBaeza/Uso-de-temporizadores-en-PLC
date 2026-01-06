@@ -55,7 +55,7 @@ El tiempo de preset (`PT`) se configuró en **15 segundos** para todos los casos
 Este ejercicio demuestra cómo los temporizadores permiten controlar **cuándo** se activan o desactivan las salidas, además de **cómo** se comportan ante cambios de estado.  
 La lógica temporal es esencial en procesos industriales, y dominar estos bloques es clave para cualquier perfil técnico en automatización.  
 
-El archivo del proyecto está incluido en este repositorio para que cualquier persona con acceso a **TIA Portal V16** pueda abrirlo y realizar la simulación.  
+El [archivo del proyecto](https://github.com/SantiagoBaeza/Uso-de-temporizadores-en-PLC/blob/main/timers.ap16) está incluido en este repositorio para que cualquier persona con acceso a **TIA Portal V16** pueda abrirlo y realizar la simulación.  
 Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
 
 ---
