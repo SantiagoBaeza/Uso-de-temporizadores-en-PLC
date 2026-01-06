@@ -18,10 +18,10 @@ El tiempo de preset (`PT`) se configuró en **15 segundos** para todos los casos
 ## Capturas
 
 - **Captura 01**: Segmento 4 y 5 – Temporizadores TP y TON aplicados a `motor4` y `motor5`.  
-  ![Segmento 4 y 5 – TP y TON](./attachments/vWK1RZgG3aSvJpAt5zpPH.jpeg)
+  ![Segmento 4 y 5 – TP y TON](https://github.com/SantiagoBaeza/Uso-de-temporizadores-en-PLC/blob/main/01%20esquema%20TP%20y%20TON%20instruction%20.jpg)
 
 - **Captura 02**: Segmento 6 y 7 – Temporizadores TOF y TONR aplicados a `motor6` y `motor7`.  
-  ![Segmento 6 y 7 – TOF y TONR](./attachments/sRtdcNKjXadusagpKCbWi.jpeg)
+  ![Segmento 6 y 7 – TOF y TONR](https://github.com/SantiagoBaeza/Uso-de-temporizadores-en-PLC/blob/main/02%20esquema%20TOF%20y%20TONR%20instruction%20.jpg)
 
 ---
 
